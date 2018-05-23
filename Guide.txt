@@ -1,0 +1,5 @@
+Download all the files and download the latest version of cura
+the justo follow the video of Thomas Sanladerer of How to add software-controlled LEDs to your 3D printer!
+https://www.youtube.com/watch?v=fb3hrjEiE3s&t=78s
+If you havent yet added a 3d printer is just the time to do it, just add a new custom 3d printer in Preference>Configure Cura> Printer>Add> Custom>And set all parameters to your need but you can use my profile just copy the image on your settings
+and On start gcode and end gcode copy paste the files of the repository named  end gcode cura v1.5.txt and  start gcode cura v1.5.txt 
